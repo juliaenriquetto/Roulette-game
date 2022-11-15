@@ -98,7 +98,7 @@ namespace apProjeto2_22139
             txtLetra.Focus();
             txtPalavra.Clear();
 
-            frase = vetor.getVetorFrase()[valorInteiro]; //vetor frase e dica indexado de um mesmo valor int aleatório                                //valor aleatório sorteado
+            frase = vetor.getVetorFrase()[valorInteiro]; //vetor frase e dica indexado de um mesmo valor int aleatório 
             dica = vetor.getVetorDica()[valorInteiro];
 
             letrasFrase = "";
